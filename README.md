@@ -3,7 +3,7 @@
 A minimal Entity Component System renderer built directly on WebGPU — TypeScript, WGSL shaders, and
 nothing else.
 
-<img width="1632" height="1067" alt="webpu-gpu" src="https://github.com/user-attachments/assets/0ed2c8cd-e9b2-4022-bbb2-5e79e61f6144" />
+<img width="1632" height="1067" alt="webgpu-ecs" src="https://github.com/user-attachments/assets/0ed2c8cd-e9b2-4022-bbb2-5e79e61f6144" />
 
 ## What It Is
 
