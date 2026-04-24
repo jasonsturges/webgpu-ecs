@@ -56,7 +56,7 @@ systems/
   CameraSystem.ts     Auto-orbit / manual / returning state machine
   
 entities/
-  Prefabs.ts          makeRotatingObject() — composes components onto an entity
+  Prefabs.ts          Factory functions that compose components onto entities
   
 renderer/
   MathUtils.ts        Vec3, Vec4, Quat, Mat4
